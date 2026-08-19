@@ -1,0 +1,69 @@
+Customer ID, Full Name,email,Signup_Date,country,Age,OrderDate,Product Category,Price,quantity ,Payment Method,Rating
+19,Maria Khan,maria.khan@example.com,14/12/2023,India,21.0,22-Apr-2023,Clothin,N/A,3.0,paypal,2.9
+3,Lucas Wang,lucas.wang@example.com,"June 13, 2023",USA,35.0,03/08/2024,Home & Garden,$142.55,4.0,Debit Card,1.4
+21,LIAM JOHNSON, LIAM.JOHNSON@EXAMPLE.COM ,05/07/2024,Australia,999.0,07/08/2023,Sports,$451.71,3.0,debit  card,1.0
+28,Liam Nakamura, LIAM.NAKAMURA@EXAMPLE.COM ,"July 10, 2024",United Kingdom,36.0,11/06/2023,unknown,$492.01,9.0,Credit Card,
+46,Chloe Dubois,chloe.dubois@example.com,09/19/2024,Australia,66.0,31/05/2024,Sports,-$416.13,9.0,Bank Transfer,4.6
+33,Noah Nakamura,noah.nakamura@example.com,"August 04, 2023",USA,,11/29/2024,Clothing,$180.07,9.0,debit  card,4.9
+34,Wei Patel,wei.patel@example.com,26/01/2023,,28.0,03-Jul-2023,Toys,$462.62,7.0,PayPal,2.1
+51,Sofia Ibrahim,sofia.ibrahim@example.com,06/19/2023,,49.0,23/04/2024,Clothing,$269.39,7.0,Credit Card,1.3
+44,Mohammed Kim,mohammed.kim@example.com,21/05/2024,India,,14-Feb-2024,Clothing,$446.87,2.0,debit  card,1.9
+18,  mohammed wang  ,mohammed.wang@example.com,"April 29, 2024",Germany,48.0,02/21/2024,Clothin,$180.38,7.0,Bank Transfer,4.5
+56,Yuki Kowalski, YUKI.KOWALSKI@EXAMPLE.COM ,03/19/2023,Germany,63.0,29/08/2024,Toys,$416.13,4.0,credit card,
+16,Yuki Nakamura,yuki.nakamura@example.com,04/07/2024,Japan,46.0,04/05/2023,Cloths,$15.41,9.0,PayPal,3.4
+14,Noah Patel, NOAH.PATEL@EXAMPLE.COM ,03/08/2024,Germany,21.0,22-Mar-2023,Electronics,$408.93,9.0,CREDIT CARD,
+53,Priya Rossi,priya.rossi@example.com,"January 20, 2023",Australia,23.0,07/06/2024,Electronics,$178.23,2.0,Credit Card,4.0
+29,Anna Müller,anna.müller@example.com,18/05/2023,Canada,60.0,28-Sep-2023,Electronics,$372.50,3.0,paypal,12.0
+31,Sofia Garcia,sofia.garcia@example.com,05/14/2023,Brazil,18.0,14/10/2024,Home & Garden,$84.98,8.0,banktransfer,3.8
+22,Yuki Rossi,yuki.rossi@example.com,20-Oct-2023,Australia,,2024-03-09,Toys,$478.87,9.0,Bank Transfer,1.6
+38,David Khan,david.khan@example.com,"July 14, 2023",Mexico,42.0,09/18/2023,Electronics,N/A,9.0,PayPal,2.5
+21,Liam Johnson, LIAM.JOHNSON@EXAMPLE.COM ,05/07/2024,Australia,999.0,07/08/2023,Sports,$451.71,3.0,debit  card,1.0
+40,Olivia Kowalski,olivia.kowalski@example.com,2024-07-21,France,62.0,"May 11, 2023",Clothing,470.48,3.0,paypal,2.6
+30,Emma Dubois,emma.dubois@example.com,2024-06-01,France,-31.0,"May 15, 2024",Home & Garden,453.14,1.0,credit card,3.5
+42,Emma Lopez, EMMA.LOPEZ@EXAMPLE.COM ,18-Oct-2023,United Kingdom,999.0,2024-06-11,Toys,$318.31,6.0,credit card,
+37,James Khan,james.khan@example.com,29-Sep-2023,United Kingdom,34.0,2023-02-09,Electronics,$176.12,6.0,debit  card,3.4
+11,Anna Smith,anna.smith@example.com,07/03/2024,Canada,,01/10/2023,Toys,$173.39,5.0,debit  card,1.6
+36,  emma kowalski  ,emma.kowalski@example.com,03/13/2023,France,39.0,13/10/2023,n/a,$322.53,7.0,banktransfer,2.3
+52,PRIYA SILVA,priya.silva@example.com,02-Dec-2023,U.K.,47.0,2023-08-05,Sports,$166.79,7.0,paypal,4.0
+13,CARLOS ALI,carlos.ali@example.com,"January 01, 2023",Japan,67.0,09/05/2024,Home & Garden,$246.86,2.0,Debit Card,4.5
+23,Noah Kim,noah.kim@example.com,"July 09, 2024",Mexico,21.0,03/04/2023,Toys,-$160.23,1.0,Bank Transfer,3.0
+32,Anna Smith,anna.smith@example.com,02-Jun-2023,Canada,25.0,2024-07-12,Electronics,$293.34,3.0,debit  card,1.5
+59,David Rossi,david.rossi@example.com,10/05/2024,Japan,57.0,21-Apr-2024,Sports,$413.74,10.0,NULL,2.3
+2,Maria Smith,maria.smith@example.com,27-Aug-2023,Germany,23.0,2024-06-01,Books,$18.14,4.0,banktransfer,2.7
+17,James Chen,james.chen@example.com,05-Dec-2023,,63.0,2023-03-14,n/a,$122.81,8.0,PayPal,3.2
+60,Liam Chen,liam.chen@example.com,2023-09-07,Australia,-35.0,"April 20, 2024",Books,307.11,7.0,Debit Card,1.1
+57,Noah Costa,noah.costa@example.com,02-Aug-2024,unknown,69.0,2023-02-12,Home & Garden,N/A,6.0,credit card,3.0
+4,Yuki Khan,yuki.khan@example.com,10/09/2024,Brazil,40.0,28-Sep-2023,Electronics,$270.43,7.0,credit card,3.2
+3,Lucas Wang,lucas.wang@example.com,"June 13, 2023",USA,35.0,03/08/2024,Home & Garden,$142.55,4.0,Debit Card,1.4
+41,James Müller,james.müller@example.com,03/16/2024,Germany,36.0,16/08/2024,Books,$329.08,8.0,Bank Transfer,2.8
+54,  liam kim  ,liam.kim@example.com,06/06/2023,Mexico,19.0,02-Sep-2023,Clothing,$61.62,,Bank Transfer,3.8
+55,Ahmed Johnson,ahmed.johnson@example.com,2023-04-28,Mexico,,"June 17, 2023",Home & Garden,$58.51,1.0,n/a,3.3
+49,Priya Dubois, PRIYA.DUBOIS@EXAMPLE.COM ,01/03/2024,Australia,52.0,05-Mar-2023,Clothing,$197.79,10.0,Credit Card,4.4
+10,John Garcia,john.garcia@example.com,2024-11-27,United Kingdom,25.0,"March 08, 2024",Books,36.45,7.0,Bank Transfer,3.1
+35,Aisha Kowalski, AISHA.KOWALSKI@EXAMPLE.COM ,2023-08-16,Australia,20.0,"July 24, 2023",Sports,$178.08,4.0,PayPal,1.1
+50,Mohammed Kowalski,mohammed.kowalski@example.com,2023-11-02,USA,48.0,"February 04, 2024",Sports,271.42,-9.0,PayPal,3.0
+25,Mohammed Patel,mohammed.patel@example.com,2023-02-10,Mexico,55.0,"September 26, 2024",Electronics,$293.92,-9.0,Debit Card,4.7
+6,Aisha Kowalski,aisha.kowalski@example.com,10/12/2024,Australia,35.0,09/01/2024,Clothing,$108.71,5.0,N/A,3.4
+51,Sofia Ibrahim,sofia.ibrahim@example.com,06/19/2023,n/a,49.0,23/04/2024,Clothing,$269.39,7.0,Credit Card,1.3
+20,John Nguyen,john.nguyen@example.com,2023-04-11,Japan,69.0,"February 21, 2023",Toys,499.64,1.0,credit card,4.7
+7,Carlos Ali, CARLOS.ALI@EXAMPLE.COM ,17-Jun-2023,Germany,64.0,2024-04-18,Sports,$138.62,9.0,PayPal,3.7
+12,James Rossi,james.rossi@example.com,19-Apr-2023,United Kingdom,50.0,2024-10-02,Home & Garden,$421.63,9.0,PayPal,1.6
+1,Aisha Smith,aisha.smith@example.com,09/08/2023,France,65.0,17/08/2023,Clothing,$339.97,9.0,credit card,3.4
+45,  david nguyen  ,david.nguyen@example.com,2023-09-13,Japan,-21.0,"May 05, 2023",Sports,$71.00,8.0,banktransfer,5.0
+8,Maria Patel,maria.patel@example.com,"February 15, 2024",USA,70.0,10/02/2023,Electronic,$110.25,8.0,debit  card,4.5
+49,Priya Dubois, PRIYA.DUBOIS@EXAMPLE.COM ,01/03/2024,Australia,52.0,05-Mar-2023,Clothing,$197.79,10.0,Credit Card,4.4
+5,Chloe Nakamura,chloe.nakamura@example.com,2023-03-13,Germany,54.0,"February 16, 2023",Toys,$117.81,5.0,credit card,4.4
+39,JOHN DUBOIS,john.dubois@example.com,10/11/2024,N/A,57.0,08-May-2023,Toys,$450.52,9.0,paypal,3.7
+40,Olivia Kowalski,olivia.kowalski@example.com,2024-07-21,France,62.0,"May 11, 2023",Clothing,470.48,3.0,paypal,2.6
+42,Emma Lopez, EMMA.LOPEZ@EXAMPLE.COM ,18-Oct-2023,United Kingdom,999.0,2024-06-11,Toys,$318.31,6.0,credit card,
+27,  john smith  ,john.smith@example.com,30-Jul-2024,Mexico,47.0,2023-04-13,Electronics,$255.41,,Debit Card,4.5
+43,Liam Müller,liam.müller@example.com,"May 31, 2023",Germany,32.0,01/26/2023,Electronicss,$307.58,2.0,Bank Transfer,2.7
+47,Fatima Nguyen,fatima.nguyen@example.com,14-Oct-2024,Germany,34.0,2023-10-11,Books,$244.88,4.0,paypal,2.8
+11,ANNA SMITH,anna.smith@example.com,07/03/2024,Canada,,01/10/2023,Toys,$173.39,5.0,debit  card,1.6
+9,  lucas silva  ,lucas.silva@example.com,21/08/2024,uk,34.0,14-Mar-2024,Books,$202.70,4.0,CREDIT CARD,3.0
+3,LUCAS WANG,lucas.wang@example.com,"June 13, 2023",USA,35.0,03/08/2024,Home & Garden,$142.55,4.0,Debit Card,1.4
+15,Fatima Ali,fatima.ali@example.com,2024-06-24,France,-28.0,"September 13, 2024",Sports,$482.36,9.0,PayPal,3.9
+58,Olivia Smith,olivia.smith@example.com,"April 19, 2023",Australia,44.0,03/19/2024,Home & Garden,$319.61,8.0,CREDIT CARD,12.0
+24,David Johnson,david.johnson@example.com,24/03/2023,Japan,21.0,10-Jul-2023,Electronics,$339.23,4.0,debit  card,1.5
+26,EMMA DUBOIS,emma.dubois@example.com,02/10/2024,France,33.0,15/05/2023,Toys,$324.52,8.0,Debit Card,4.7
+48,Noah Patel,noah.patel@example.com,"November 24, 2023",Brazil,35.0,07/07/2024,electronics,$194.60,3.0,PayPal,1.3
